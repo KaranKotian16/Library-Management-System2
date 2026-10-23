@@ -1,0 +1,26 @@
+# Library Management System
+
+## Project Description
+Libra is a simple Library Management System developed using HTML, CSS, and JavaScript.
+
+## Features
+- Dashboard showing library statistics
+- Add, edit, delete, and search books
+- Manage borrower records
+- Issue and return books
+- Store data using browser localStorage
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Browser localStorage
+
+## How to Run
+1. Download the project files.
+2. Open `index.html` in a web browser.
+3. Start using the Library Management System.
+
+## Developed By
+Name: Your Name  
+Department: AI & Data Science
